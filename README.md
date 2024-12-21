@@ -1,7 +1,7 @@
 # Land-Registry-Using-Blockchain-
 Land Registry Using Blockchain Code, Document And Video Tutorial
 
-![image](https://github.com/user-attachments/assets/ca1cc80d-b9b6-4811-a5a7-b243df4781cd)
+![Land registry](https://github.com/user-attachments/assets/74b094cd-94d4-4455-b0b6-0259baa386fd)
 
 ## Youtube link: https://youtu.be/0x-fnZXXrD0?si=iuKvo3qdGwfEKqFE
 
